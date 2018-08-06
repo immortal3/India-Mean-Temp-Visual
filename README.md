@@ -5,18 +5,18 @@
 <img src="https://github.com/immortal3/India-Mean-Temp-Visual/blob/master/India_Mean_Temp_change.gif" width="600" height="600">
 
 
-#### This is markdown version of Jupyter Notebook
+##### This is markdown version of Jupyter Notebook
 
-### This work is inspired by blog post from dataquest.io (link: https://www.dataquest.io/blog/climate-temperature-spirals-python/)
+#### This work is inspired by blog post from dataquest.io (link: https://www.dataquest.io/blog/climate-temperature-spirals-python/)
 
 ### Data is collected from data.gov.in (link: https://data.gov.in/resources/monthly-seasonal-and-annual-mean-temperature-india-1901-2016)
 
 
 
 ```python
-import json
-import pandas as pd
-import matplotlib.pyplot as plt
+import json    # for reading json data
+import pandas as pd  # creating Pandas Data frame
+import matplotlib.pyplot as plt  # For plotting
 import numpy as np
 ```
 

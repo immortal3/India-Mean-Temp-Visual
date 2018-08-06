@@ -1,7 +1,9 @@
 
 
 # Visualizing Temperature Change of India (1901-2015)
-![Visual](https://i.imgur.com/YpGZ5vZ.gif)
+
+<img src="https://github.com/immortal3/India-Mean-Temp-Visual/blob/master/India_Mean_Temp_change.gif" width="600" height="600">
+
 
 #### This is markdown version of Jupyter Notebook
 
